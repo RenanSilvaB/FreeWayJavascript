@@ -2,5 +2,5 @@
 
 > Status: Completo.
 
-Para rodar o jogo inicie pelo site: https://renansilvab.github.io/FreeWayJavascript/
+Para rodar o jogo inicie pelo site: [https://renansilvab.github.io/FreeWayJavascript/](https://renansilvab.github.io/FreeWayJavascript/)
 
